@@ -1,8 +1,5 @@
 # Underactuated-Robotics
-Trajectory tracking of time varying LQR
+
 Gridworld optimization
-Unicycle differential flatness
-Energy shaping
-Minimum snap quadrotor trajectories
-iLQR based trajectory optimization
-Planar arm trajectory optimization
+
+Robot path determined by using Dynamic Programming and Markov Decision Process
